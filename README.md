@@ -9,11 +9,7 @@
 * FileResponseData 文件返回信息
 * TrackerServerFactory TrackerServer Factory
 * TrackerServerPool TrackerServer Pool
-
-搭好FastDFS环境后，修改config.properties的相关配置，可直接启动运行项目，通过提供的接口访问，可使用Postman进行测试
-
-搭建环境的步骤可参考个人博客：[用FastDFS一步步搭建文件管理系统](http://www.cnblogs.com/chiangchou/p/fastdfs.html)
-
+  
 
 
 ### docker 部署 fastdfs
